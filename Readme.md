@@ -2,6 +2,10 @@
 
 
 
+![photo](/Users/hs/Github/hackintosh/photo/f.png)
+
+
+
 该仓库内的efi来自于[1]，该efi采用的是opencore，在使用之前请仔细阅读精解opencore[2]这篇文章，库内的propertree-master.zip为修改config.plist的工具软件。
 
 
