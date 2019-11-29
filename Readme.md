@@ -2,7 +2,7 @@
 
 
 
-![photo](./photo/f.png)
+![photo](https://github.com/harpsword/hackintosh-ryzen/raw/master/photo/f.png)
 
 
 
