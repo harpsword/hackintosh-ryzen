@@ -2,7 +2,7 @@
 
 
 
-![photo](/Users/hs/Github/hackintosh/photo/f.png)
+![photo](./photo/f.png)
 
 
 
