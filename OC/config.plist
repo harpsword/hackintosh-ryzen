@@ -5,7 +5,16 @@
 	<key>ACPI</key>
 	<dict>
 		<key>Add</key>
-		<array/>
+		<array>
+			<dict>
+				<key>Enabled</key>
+				<true/>
+				<key>Comment</key>
+				<string>SSDT-EC-USBX-DESKTOP.aml</string>
+				<key>Path</key>
+				<string>SSDT-EC-USBX-DESKTOP.aml</string>
+			</dict>
+		</array>
 		<key>Delete</key>
 		<array/>
 		<key>Patch</key>
