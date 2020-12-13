@@ -1750,7 +1750,7 @@
 		<key>Automatic</key>
 		<true/>
 		<key>CustomMemory</key>
-		<false/>
+		<true/>
 		<key>Generic</key>
 		<dict>
 			<key>AdviseWindows</key>
@@ -1775,23 +1775,54 @@
 		<key>Memory</key>
 		<dict>
 			<key>DataWidth</key>
-			<integer>0</integer>
+			<integer>64</integer>
 			<key>Devices</key>
 			<array>
-				<dict/>
+				<dict>
+					<key>DeviceLocator</key>
+					<string>ChannelA-DIMM0</string>
+					<key>Manufacturer</key>
+					<string>A-DATA Technology</string>
+					<key>PartNumber</key>
+					<string>DDR4 3200</string>
+					<key>SerialNumber</key>
+					<string>B4AD0100</string>
+					<key>Size</key>
+					<integer>8192</integer>
+					<key>Speed</key>
+					<integer>3200</integer>
+					<key>BankLocator</key>
+					<string>BANK 0</string>
+				</dict>
+				<dict>
+					<key>DeviceLocator</key>
+					<string>ChannelB-DIMM0</string>
+					<key>Manufacturer</key>
+					<string>A-DATA Technology</string>
+					<key>PartNumber</key>
+					<string>DDR4 3200</string>
+					<key>SerialNumber</key>
+					<string>8E030000</string>
+					<key>Size</key>
+					<integer>8192</integer>
+					<key>Speed</key>
+					<integer>3200</integer>
+					<key>BankLocator</key>
+					<string>BANK 1</string>
+				</dict>
 			</array>
 			<key>ErrorCorrection</key>
-			<integer>0</integer>
+			<integer>3</integer>
 			<key>FormFactor</key>
-			<integer>0</integer>
+			<integer>9</integer>
 			<key>MaxCapacity</key>
-			<integer>0</integer>
+			<integer>137438953472</integer>
 			<key>TotalWidth</key>
-			<integer>0</integer>
+			<integer>64</integer>
 			<key>Type</key>
-			<integer>0</integer>
+			<integer>26</integer>
 			<key>TypeDetail</key>
-			<integer>0</integer>
+			<integer>128</integer>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
