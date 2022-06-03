@@ -1816,22 +1816,6 @@
 			<array>
 				<dict>
 					<key>DeviceLocator</key>
-					<string>ChannelA-DIMM0</string>
-					<key>Manufacturer</key>
-					<string>A-DATA Technology</string>
-					<key>PartNumber</key>
-					<string>DDR4 3200</string>
-					<key>SerialNumber</key>
-					<string>B4AD0100</string>
-					<key>Size</key>
-					<integer>8192</integer>
-					<key>Speed</key>
-					<integer>3200</integer>
-					<key>BankLocator</key>
-					<string>BANK 0</string>
-				</dict>
-				<dict>
-					<key>DeviceLocator</key>
 					<string>ChannelB-DIMM0</string>
 					<key>Manufacturer</key>
 					<string>A-DATA Technology</string>
@@ -1839,6 +1823,38 @@
 					<string>DDR4 3200</string>
 					<key>SerialNumber</key>
 					<string>8E030000</string>
+					<key>Size</key>
+					<integer>8192</integer>
+					<key>Speed</key>
+					<integer>3200</integer>
+					<key>BankLocator</key>
+					<string>BANK 1</string>
+				</dict>
+				<dict>
+					<key>DeviceLocator</key>
+					<string>ChannelA-DIMM1</string>
+					<key>Manufacturer</key>
+					<string>A-DATA Technology</string>
+					<key>PartNumber</key>
+					<string>DDR4 3200</string>
+					<key>SerialNumber</key>
+					<string>86310600</string>
+					<key>Size</key>
+					<integer>16384</integer>
+					<key>Speed</key>
+					<integer>3200</integer>
+					<key>BankLocator</key>
+					<string>BANK 0</string>
+				</dict>
+				<dict>
+					<key>DeviceLocator</key>
+					<string>ChannelB-DIMM1</string>
+					<key>Manufacturer</key>
+					<string>A-DATA Technology</string>
+					<key>PartNumber</key>
+					<string>DDR4 3200</string>
+					<key>SerialNumber</key>
+					<string>B4AD0100</string>
 					<key>Size</key>
 					<integer>8192</integer>
 					<key>Speed</key>
@@ -1858,7 +1874,7 @@
 			<key>Type</key>
 			<integer>26</integer>
 			<key>TypeDetail</key>
-			<integer>128</integer>
+			<integer>2</integer>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
